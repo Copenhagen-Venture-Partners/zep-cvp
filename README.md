@@ -3,6 +3,7 @@
     <img src="https://github.com/getzep/zep/blob/main/assets/zep-bot-square-200x200.png?raw=true" width="150" alt="Zep Logo">
   </a>
 </p>
+<br>
 
 <h1 align="center">
 Zep: Fast, scalable building blocks for LLM apps
