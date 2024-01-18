@@ -117,3 +117,4 @@ custom_prompts:
     #
     # If left empty, the default OpenAI summary prompt from zep/pkg/extractors/prompts.go will be used.
     openai: |
+

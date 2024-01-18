@@ -13,3 +13,4 @@ COPY --from=BUILD /app/out/bin/zep /app/
 
 EXPOSE 8000
 ENTRYPOINT ["/app/zep", "--config", "/app/config.yaml"]
+
